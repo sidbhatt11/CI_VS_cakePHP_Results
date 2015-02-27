@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+CakePHP Test Plan Local  Server 400 users:Request on index.php,400,15,14,53,1.980555477637521,0.0,39.71405877680699,177.8600327640985,4586.0
+TOTAL,400,15,14,53,1.980555477637521,0.0,39.71405877680699,177.8600327640985,4586.0

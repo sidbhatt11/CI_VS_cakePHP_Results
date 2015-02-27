@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+CakePHP Test Plan Live Server 800 users:Request on index.php,800,10840,729,23401,5429.3185672697455,0.0,27.208108016188824,56.94040574091079,2143.0
+TOTAL,800,10840,729,23401,5429.3185672697455,0.0,27.208108016188824,56.94040574091079,2143.0

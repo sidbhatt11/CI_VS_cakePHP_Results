@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+Request on index.php,1600,1107,7,9081,1570.2576021138966,0.0,111.18059898547703,360.68549788061983,3322.0
+TOTAL,1600,1107,7,9081,1570.2576021138966,0.0,111.18059898547703,360.68549788061983,3322.0

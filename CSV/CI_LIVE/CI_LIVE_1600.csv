@@ -1,0 +1,3 @@
+sampler_label,aggregate_report_count,average,aggregate_report_min,aggregate_report_max,aggregate_report_stddev,aggregate_report_error%,aggregate_report_rate,aggregate_report_bandwidth,average_bytes
+CodeIgniter Test Plan Live server 1600 users:Request on index.php,1600,22702,1787,169154,35719.727986935315,0.908125,9.370808759363488,60.73898115515717,6637.28375
+TOTAL,1600,22702,1787,169154,35719.727986935315,0.908125,9.370808759363488,60.73898115515717,6637.28375
